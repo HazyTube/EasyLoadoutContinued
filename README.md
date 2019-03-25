@@ -1,4 +1,3 @@
-Easy Loadout Continued v0.1 by sr7066, maintained by HazyTube.
 Easy Loadout Continued is an LSPDFR plugin that aims to make your life easier to quickly and easily control your weapons loadout.
 Go on duty and automatically recieve your defined loadout, aswell as press a keybind of your choosing to quickly and easily clear your loadout of those
 annoying guns that the criminals drops.
