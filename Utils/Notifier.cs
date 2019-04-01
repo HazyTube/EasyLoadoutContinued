@@ -31,7 +31,7 @@ namespace EasyLoadoutContinued.Utils
 
         internal static void StartUpNotification()
         {
-            Game.DisplayNotification("web_lossantospolicedept", "web_lossantospolicedept", "EasyLoadoutContinued", "~y~v" + Assembly.GetExecutingAssembly().GetName().Version.ToString() + " ~g~by HazTybe", "~b~Has been loaded.");
+            Game.DisplayNotification("web_lossantospolicedept", "web_lossantospolicedept", NotificationPrefix, "~y~v" + Assembly.GetExecutingAssembly().GetName().Version.ToString() + " ~o~by HazTybe", "~b~Has been loaded.");
             Logger.DebugLog("Startup Notification Sent.");
         }
     }

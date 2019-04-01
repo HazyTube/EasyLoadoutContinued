@@ -43,17 +43,17 @@ namespace EasyLoadoutContinued.Utils
 
             KeysConverter kc = new KeysConverter();
 
-            string opTemp, opmTemp, glTemp, glmTemp, dlnTemp, dlcTemp;
+            string OpenMenuKey, OpenMenuModifierKey, GiveLoadoutKey, GiveLoadoutModifierKey, dlnTemp, dlcTemp;
 
-            opTemp = settings.ReadString("Keybinds", "OpenMenu", "F8");
-            opmTemp = settings.ReadString("Keybinds", "OpenMenuModifier", "None");
-            glTemp = settings.ReadString("Keybinds", "GiveLoadout", "F7");
-            glmTemp = settings.ReadString("Keybinds", "GiveLoadoutModifier", "None");
+            OpenMenuKey = settings.ReadString("Keybinds", "OpenMenu", "F8");
+            OpenMenuModifierKey = settings.ReadString("Keybinds", "OpenMenuModifier", "None");
+            GiveLoadoutKey = settings.ReadString("Keybinds", "GiveLoadout", "F7");
+            GiveLoadoutModifierKey = settings.ReadString("Keybinds", "GiveLoadoutModifier", "None");
 
-            Global.Controls.OpenMenu = (Keys)kc.ConvertFromString(opTemp);
-            Global.Controls.OpenMenuModifier = (Keys)kc.ConvertFromString(opmTemp);
-            Global.Controls.GiveLoadout = (Keys)kc.ConvertFromString(glTemp);
-            Global.Controls.GiveLoadoutModifier = (Keys)kc.ConvertFromString(glmTemp);
+            Global.Controls.OpenMenu = (Keys)kc.ConvertFromString(OpenMenuKey);
+            Global.Controls.OpenMenuModifier = (Keys)kc.ConvertFromString(OpenMenuModifierKey);
+            Global.Controls.GiveLoadout = (Keys)kc.ConvertFromString(GiveLoadoutKey);
+            Global.Controls.GiveLoadoutModifier = (Keys)kc.ConvertFromString(GiveLoadoutModifierKey);
 
 
             dlnTemp = settings.ReadString("General", "DefaultLoadout", "Loadout1");

@@ -67,11 +67,7 @@
     <Compile Include="Utils\Updater.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="EasyLoadoutContinued.ini" />
     <None Include="LatestVersion" />
-    <None Include="Loadout1.ini" />
-    <None Include="Loadout2.ini" />
-    <None Include="Loadout3.ini" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

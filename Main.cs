@@ -20,7 +20,9 @@ namespace EasyLoadoutContinued
         public override void Initialize()
         {
             Functions.OnOnDutyStateChanged += DutyStateChange;
+
             Global.Application.CurrentVersion = $"{System.Reflection.Assembly.GetExecutingAssembly().GetName().Version}";
+
             Global.Application.ConfigPath = "Plugins/LSPDFR/EasyLoadoutContinued/Configs/";
 
         }
