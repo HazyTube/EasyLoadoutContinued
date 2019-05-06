@@ -1,6 +1,6 @@
 ﻿/*
 
-Author: HazyTube
+Developed by: HazyTube
 Name: EasyLoadoutContinued
 Released on: LSPDFR and GitHub
 
