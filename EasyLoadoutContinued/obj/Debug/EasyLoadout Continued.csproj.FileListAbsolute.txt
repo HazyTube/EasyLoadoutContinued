@@ -1,0 +1,22 @@
+Z:\GTA 5 Mod Development\Projects\EasyLoadout Continued\obj\Debug\EasyLoadout Continued.csprojResolveAssemblyReference.cache
+Z:\GTA 5 Mod Development\Projects\EasyLoadout Continued\bin\Debug\LSPD First Response.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadout Continued\bin\Debug\RAGENativeUI.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadout Continued\bin\Debug\RagePluginHookSDK.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadout Continued\bin\Debug\EasyLoadoutContinued.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadout Continued\bin\Debug\EasyLoadoutContinued.pdb
+Z:\GTA 5 Mod Development\Projects\EasyLoadout Continued\obj\Debug\EasyLoadoutContinued.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadout Continued\obj\Debug\EasyLoadoutContinued.pdb
+Z:\GTA 5 Mod Development\Projects\EasyLoadout Continued\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\bin\Debug\EasyLoadoutContinued.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\bin\Debug\EasyLoadoutContinued.pdb
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\bin\Debug\LSPD First Response.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\bin\Debug\RAGENativeUI.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\bin\Debug\RagePluginHookSDK.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\bin\Debug\RAGENativeUI.xml
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\bin\Debug\RagePluginHookSDK.xml
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\obj\Debug\EasyLoadout Continued.csprojAssemblyReference.cache
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\obj\Debug\EasyLoadout Continued.csproj.CoreCompileInputs.cache
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\obj\Debug\EasyLoadout Continued.csproj.CopyComplete
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\obj\Debug\EasyLoadoutContinued.dll
+Z:\GTA 5 Mod Development\Projects\EasyLoadoutContinued\obj\Debug\EasyLoadoutContinued.pdb
